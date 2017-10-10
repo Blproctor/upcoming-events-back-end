@@ -1,12 +1,11 @@
-# Top level Heading
+# Capstone Project
 
-## Second Level Heading
+## Upcoming Events App
 
-[Link]()
-[Link]()
-[Link]()
-[Link]()
+The Upcoming Events app functions as a single page application using HTML and CSS for styling. The [client side](https://github.com/Blproctor/weekly-events-front-end) is written in Javascript with the jQuery library and Handlebars templating. The back end is written utilizing Express Mongoose and a MongoDB database.
 
-### Third Level Heading
+## Check out the page
 
-#### Fourth Level Heading
+The back end was deployed on [Heroku](https://protected-hamlet-58469.herokuapp.com/).
+
+The front end GitHub repository can be found [here](https://github.com/Blproctor/weekly-events-front-end).
